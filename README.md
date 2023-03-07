@@ -1,2 +1,2 @@
-# digitalmonicrop.github.com
+# digitalmonicrop.github.io
 Cryptocurrency investment platform
